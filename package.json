@@ -1,7 +1,6 @@
 {
   "name": "ecommerce-frontend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Bhuvana1234567890/ecommerce-frontend/issues"
   },
-  "homepage": "https://github.com/Bhuvana1234567890/ecommerce-frontend#readme"
+  "homepage": "https://github.com/Bhuvana1234567890/ecommerce-frontend#readme",
+  "description": ""
 }
